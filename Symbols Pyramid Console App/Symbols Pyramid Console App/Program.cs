@@ -10,9 +10,9 @@ namespace Symbols_Pyramid_Console_App
     {
         static void Main(string[] args)
         {
-            int i = 1, j, s = 10, t = 1, k;
             Console.WriteLine("Input k:");
-            k = Convert.ToInt32(Console.ReadLine());
+            int k = Convert.ToInt32(Console.ReadLine());
+            int i = 1, j, s = k, t = 1;
 
             while (i <= k)
             {
