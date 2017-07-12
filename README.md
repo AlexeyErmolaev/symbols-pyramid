@@ -1,2 +1,2 @@
 # symbols-pyramid
-Try it: http://ideone.com/crrusI
+Try it: http://ideone.com/mEkuRQ
